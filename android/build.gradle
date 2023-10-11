@@ -52,6 +52,7 @@ repositories {
 
 dependencies {
     // compileOnly 'com.facebook.react:react-native:+'
+    implementation 'com.facebook.react:react-android:0.72.5'
 }
 
 task customClean(type: Delete) {
