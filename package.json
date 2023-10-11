@@ -26,5 +26,6 @@
   },
   "peerDependencies": {
     "react-native": ">=0.59.0"
-  }
+  },
+  "dependencies": {}
 }
